@@ -284,7 +284,10 @@ terminal:
   paletteGenerate: true
   hideTabIndex: true
   showTabProfileIcon: true
+  hideCloseButton: true
   hideTabOptionsButton: true
+  altIsMeta: true
+  bell: visual
   lightColorScheme:
     name: Catppuccin Latte
     foreground: '#4c4f69'
